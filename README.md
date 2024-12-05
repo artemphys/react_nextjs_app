@@ -1,1 +1,1 @@
-# react_nextjs_app
+# react_typescript_app
